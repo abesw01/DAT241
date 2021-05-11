@@ -34,19 +34,19 @@
 >
 There are 739 public libraries in Pennsylvania, with at least one library in each county.
 
-![Map Showing the location of libraries in each county](/Users/anna/Documents/ccac/DAT 241 - GIS/final_project/images/libraries as points.png "Location of Libraries in PA")
+![Map Showing the location of libraries in each county](/Users/anna/Documents/ccac/DAT-241_GIS/final_project/images/libraries_as_points.png "Location of Libraries in PA")
 
 The highest concentration of libraries is in Allegheny and Philadelphia counties followed by Westmoreland, Berks, Montgomery and Delaware counties.  There are 30 counties with 6 or fewer public libraries.
 >
-![Map of Libraries per County](/Users/anna/Documents/ccac/DAT 241 - GIS/final_project/images/Libraries_per_County.png "Map of Libraries per County")
+![Map of Libraries per County](/Users/anna/Documents/ccac/DAT_241_GIS/final_project/images/Libraries_per_County.png "Map of Libraries per County")
 >
 >Lancaster and Northumberland Counties have the highest percent of females that did not graduate from High School.  Lawrence, Butler, Armstrong, Cambria, Center and Adams Counties have the lowest percent of females that did not graduate from High School.
 >
-![Map of education attainment for females 18 to 24 without a high school diploma](/Users/anna/Documents/ccac/DAT 241 - GIS/final_project/images/per_18_24_noHS.png)
+![Map of education attainment for females 18 to 24 without a high school diploma](/Users/anna/Documents/ccac/DAT_241_GIS/final_project/images/per_18_24_noHS.png)
 >
 >Lancaster and Berks Counties have teh highest percent of females that have a 9th grade education or lower.  Allegheny, Butler, Lawrence, Cambria and Monroe counties the lowest percent of females that have a 9th grade eduction or lower.
 >
-![Map of females with a 9th grade education or less](/Users/anna/Documents/ccac/DAT 241 - GIS/final_project/images/per_25_9grade.png)
+![Map of females with a 9th grade education or less](/Users/anna/Documents/ccac/DAT_241_GIS/final_project/images/per_25_9grade.png)
 >
 
 ## **Conclusions**
