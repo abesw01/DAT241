@@ -36,17 +36,24 @@
 >
 There are 739 public libraries in Pennsylvania, with at least one library in each county.
 >
+>
+>
 ![Map of Libraries per County](/images/Libraries_per_County.png "Map of Libraries per County")
 >
 The highest concentration of libraries is in Allegheny and Philadelphia counties followed by Westmoreland, Berks, Montgomery and Delaware counties.  There are 30 counties with 6 or fewer public libraries.
+>
+>
 >
 ![Map of education attainment for females 18 to 24 without a high school diploma](/images/per_18_24_noHS.png)
 >
 >Lancaster and Northumberland Counties have the highest percent of females 18-24 that did not graduate from High School.  Lawrence, Butler, Armstrong, Cambria, Center and Adams Counties have the lowest percent of females that did not graduate from High School.
 >
+>
+>
 ![Map of female 25 or older with a 9th grade education or less](/images/per_25_9grade.png)
 >
 >Lancaster and Berks Counties have the highest percent of females that have a 9th grade education or lower.  Allegheny, Butler, Lawrence, Cambria and Monroe counties the lowest percent of females that have a 9th grade eduction or lower.
+>
 >
 ## **Conclusions**
 >
