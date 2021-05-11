@@ -32,31 +32,30 @@
 >
 ## **Results and Discussion**
 >
+![Map Showing the location of libraries in each county](/images/libraries_as_points.png)
+>
 There are 739 public libraries in Pennsylvania, with at least one library in each county.
-
-![Map Showing the location of libraries in each county](/images/libraries_as_points.png "Location of Libraries in PA")
-
-The highest concentration of libraries is in Allegheny and Philadelphia counties followed by Westmoreland, Berks, Montgomery and Delaware counties.  There are 30 counties with 6 or fewer public libraries.
 >
 ![Map of Libraries per County](/images/Libraries_per_County.png "Map of Libraries per County")
 >
->Lancaster and Northumberland Counties have the highest percent of females that did not graduate from High School.  Lawrence, Butler, Armstrong, Cambria, Center and Adams Counties have the lowest percent of females that did not graduate from High School.
+The highest concentration of libraries is in Allegheny and Philadelphia counties followed by Westmoreland, Berks, Montgomery and Delaware counties.  There are 30 counties with 6 or fewer public libraries.
 >
 ![Map of education attainment for females 18 to 24 without a high school diploma](/images/per_18_24_noHS.png)
 >
->Lancaster and Berks Counties have teh highest percent of females that have a 9th grade education or lower.  Allegheny, Butler, Lawrence, Cambria and Monroe counties the lowest percent of females that have a 9th grade eduction or lower.
+>Lancaster and Northumberland Counties have the highest percent of females 18-24 that did not graduate from High School.  Lawrence, Butler, Armstrong, Cambria, Center and Adams Counties have the lowest percent of females that did not graduate from High School.
 >
-![Map of females with a 9th grade education or less](/images/per_25_9grade.png)
+![Map of female 25 or older with a 9th grade education or less](/images/per_25_9grade.png)
 >
-
+>Lancaster and Berks Counties have the highest percent of females that have a 9th grade education or lower.  Allegheny, Butler, Lawrence, Cambria and Monroe counties the lowest percent of females that have a 9th grade eduction or lower.
+>
 ## **Conclusions**
 >
 There is at least one public library in every county in Pennsylvania.
-
+>
 ## **Limitations**
 >
 The 2019 Census data for Education Attainment did not include data for all the counties in Pennsylvania so a comprehensive comparison could not be made.
-
+>
 ## **Future research**
 >
 Several additional data that could be incorporated are data sets concerning poverty and teenage pregnancy; both could affect the outcome of education of girls in that they ccould add social environmental conditions that would prohibit girls from completing their high school education and continuing their education in institutes of higher learning.
