@@ -46,7 +46,7 @@ The highest concentration of libraries is in Allegheny and Philadelphia counties
 >
 >Lancaster and Berks Counties have teh highest percent of females that have a 9th grade education or lower.  Allegheny, Butler, Lawrence, Cambria and Monroe counties the lowest percent of females that have a 9th grade eduction or lower.
 >
-![Map of females with a 9th grade education or less](/Users/anna/Documents/ccac/DAT_241_GIS/final_project/images/per_25_9grade.png)
+![Map of females with a 9th grade education or less](/images/per_25_9grade.png)
 >
 
 ## **Conclusions**
