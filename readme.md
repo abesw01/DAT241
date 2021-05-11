@@ -33,7 +33,7 @@
 ## **Results and Discussion**
 >
 ### Library Location Map
-![Map Showing the location of libraries in each county](/images/libraries_as_points.jpeg)
+![Map Showing the location of libraries in each county](/images/libraries_as_points.jpg)
 >
 There are 739 public libraries in Pennsylvania, with at least one library in each county.
 >
