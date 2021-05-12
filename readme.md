@@ -11,7 +11,7 @@
 > There are 739 public libraries across the state of Pennsylvania according to the Pennsylvania Public Library Data Collection, including bookmobiles.
 >
 ## **Data Sources**
-1. [State Outline](https://www.census.gov/cgi-bin/geo/shapefiles/index.php?year=2020&layergroup=States+%28and+equivalent%29) 
+1. State Outline - (https://www.census.gov/cgi-bin/geo/shapefiles/index.php?year=2020&layergroup=States+%28and+equivalent%29) 
 1. [Pennsylvania Counties](https://www2.census.gov/geo/tiger/TIGER2020PL/STATE/42_PENNSYLVANIA/42/)
 1. [Library Locations](https://pa.countingopinions.com/memberlist.php)
 1. [Education Attainment](https://data.census.gov/cedsci/table?q=Educational%20Attainment&g=0400000US42.050000&tid=ACSST1Y2019.S1501&hidePreview=true)
@@ -61,11 +61,11 @@ The highest concentration of libraries is in Allegheny and Philadelphia counties
 >
 ## **Conclusions**
 >
-There is at least one public library in every county in Pennsylvania.
+While there is at least one public library in every county in Pennsylvania, the effectiveness of the public library was not determined.
 >
 ## **Limitations**
 >
-The 2019 Census data for Education Attainment did not include data for all the counties in Pennsylvania so a comprehensive comparison could not be made.  One appraoch would be to use the 2019 5 Year estimate data, which does have data for all 67 counties.
+The 2019 Census data for Education Attainment did not include data for all the counties in Pennsylvania so a comprehensive comparison could not be made.  One approach would be to use the 2019 5 Year estimate data, which does have data for all 67 counties.
 >
 ## **Future research**
 >
