@@ -63,7 +63,7 @@ The highest concentration of libraries is in Allegheny and Philadelphia counties
 >
 While there is at least one public library in every county in Pennsylvania, the effectiveness of the public library was not determined.  The statistics of graduation rates of females in the state of Pennsylvania is interesting. Lancaster County has the largest percentage of females that do not have a high school education, in both the 18 to 24 years and over 25 age groups.  These numbers may reflect the large number of Amish Lancaster County. 
 (https://en.wikipedia.org/wiki/List_of_U.S._states_by_Amish_population#Largest_settlements_in_2020).  
->There is another county that has a high percentage of females that do not have a high school diploma and in the 18 to 24 or completed higher than a 9th grade education in the over the 25 year age group, Crawford County (22.21% and 4.79%).  Crawford County does not have a high number of Amish.
+There is another county that has a high percentage of females that do not have a high school diploma and in the 18 to 24 or completed higher than a 9th grade education in the over the 25 year age group, Crawford County (22.21% and 4.79%).  Crawford County does not have a high number of Amish.
 >
 ## **Limitations**
 >
