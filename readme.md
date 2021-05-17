@@ -27,8 +27,8 @@
 1. Add delimited text layer for census data for education attainment of females per county
 1. Add the areas for land and water per county and convert result from square meters to square miles
 1. Join county layer with census data education attainment of females
-1. Calculate the percent of females 18-24 that have not graduated high school
-1. Calculate the percent of females 25 and over that do not have higher than a 9th grade education
+1. Calculate the percent of females 18-24 that have not graduated high school (show data for the actual numbers)
+1. Calculate the percent of females 25 and over that do not have higher than a 9th grade education (show data for the actual numbers)
 >
 ## **Results and Discussion**
 >
@@ -49,27 +49,27 @@ The highest concentration of libraries is in Allegheny and Philadelphia counties
 ### Map of education attainment for females 18 to 24 without a high school diploma
 ![Map of education attainment for females 18 to 24 without a high school diploma](/images/per_18_24_noHS.png)
 >
->Lancaster and Northumberland Counties have the highest percent of females 18-24 that did not graduate from High School.  Lawrence, Butler, Armstrong, Cambria, Center and Adams Counties have the lowest percent of females that did not graduate from High School.
+>Lancaster and Northumberland Counties have the highest percent of females 18-24 that did not graduate from High School.  In Lancaster County, 6,800 out of 24,399 females do not have a high school diploma (27.87%).  In Northumberland County, 797 out of 2,789 females do not have a high school diploma (28.58%). Lawrence (7.03%), Butler (4.79%), Armstrong (6.66%), Cambria (4.44%), Center (4.56%) and Adams (5.31%) Counties have the lowest percentage of females that did not graduate from High School.
 >
 >
 >
 ### Map of female 25 or older with a 9th grade education or less
 ![Map of female 25 or older with a 9th grade education or less](/images/per_25_9grade.png)
 >
->Lancaster and Berks Counties have the highest percent of females that have a 9th grade education or lower.  Allegheny, Butler, Lawrence, Cambria and Monroe counties the lowest percent of females that have a 9th grade eduction or lower.
+>Lancaster and Berks Counties have the highest percentage of females over 25 that have a 9th grade education or lower. In Lancaster County, 12,006 out of 191,729 females have a 9th grade education or lower (6.26%).  In Berks County, 8,375 out of 148,472 females over 25 have a 9th grade education or lower (5.64%).  Allegheny (1.32%), Butler (1.03%), Lawrence (1.43%), Cambria (1.06%) and Monroe (1.18%) counties have the lowest percentage of females that have a 9th grade eduction or lower.
 >
 >
 ## **Conclusions**
 >
-While there is at least one public library in every county in Pennsylvania, the effectiveness of the public library was not determined.
+While there is at least one public library in every county in Pennsylvania, the effectiveness of the public library was not determined.  Lancaster County has the largest percentage of females that do not have a high school education, in both the 18 to 24 years and over 25 age groups.  These numbers may reflect the large number of Amish Lancaster County (https://en.wikipedia.org/wiki/List_of_U.S._states_by_Amish_population#Largest_settlements_in_2020).
 >
 ## **Limitations**
 >
-The 2019 Census data for Education Attainment did not include data for all the counties in Pennsylvania so a comprehensive comparison could not be made.  One approach would be to use the 2019 5 Year estimate data, which does have data for all 67 counties.
+The 2019 Census data for Education Attainment did not include data for all the counties in Pennsylvania so a comprehensive comparison could not be made.  One approach to address this limitation would be to use the 2019 5 Year estimate data, which does have data for all 67 counties.
 >
 ## **Future research**
 >
 Several additional data that could be incorporated are data sets concerning poverty and teenage pregnancy; both could affect the outcome of education of girls in that they ccould add social environmental conditions that would prohibit girls from completing their high school education and continuing their education in institutes of higher learning.
 >
-Another public library analysis could determine if the programs that public libraries offer, like bookmobiles, offer the means and initatives to support girls finishing high school and continuing on to a college or university.  The official Pennsylvania Government website has a dataset available for library statistics which includes programs that are avaialable, number of libararians and staff, operating budgets, what materials are avaialable (print and electronic), check out rates, etc.  [link] 
+Another public library analysis could determine if the programs that public libraries offer, like bookmobiles, offer the means and initatives to support girls finishing high school and continuing on to a college or university.  The official Pennsylvania Government website has a dataset available for library statistics which includes programs that are avaialable, number of librarians and staff, operating budgets, the amount of materials that are avaialable (print and electronic), check out rates, etc. 
 (https://www.statelibrary.pa.gov/Libraries/Statistics/Pages/default.aspx).
